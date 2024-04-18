@@ -1,2 +1,4 @@
-package com.example.sklep;public class DButils {
+package com.example.sklep;
+
+public class DButils {
 }

@@ -1,4 +1,4 @@
 package com.example.sklep;
 
-public class Rejestracja {
+public class RejestracjaController {
 }
